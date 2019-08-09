@@ -1,2 +1,4 @@
-# MNIST
-Image recognition on MNIST
+# Image Recognition on MNIST
+
+![example](mnist.png)
+
